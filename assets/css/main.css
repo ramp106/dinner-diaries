@@ -3144,7 +3144,7 @@ input, select, textarea {
 		display: flex;
 		flex-wrap: wrap;
 		list-style: none;
-		margin: 3rem 0;
+		margin: 1rem 0;
 		padding-left: 0;
 	}
 
@@ -3153,8 +3153,8 @@ input, select, textarea {
 		}
 
 		ul.feature-icons li {
-			margin: 0.5rem 0 0 0;
-			padding: 0.5rem 0 0 4.5rem;
+			margin: 0.2rem 0 0 0;
+			padding: 0.1rem 0 0 0.1rem;
 			position: relative;
 			width: 50%;
 		}
@@ -3167,9 +3167,9 @@ input, select, textarea {
 				color: #000000;
 				display: block;
 				font-size: 1.25rem;
-				height: 3.25rem;
+				height: 2.25rem;
 				left: 0;
-				line-height: 3.25rem;
+				line-height:2.25rem;
 				position: absolute;
 				text-align: center;
 				top: 0;
