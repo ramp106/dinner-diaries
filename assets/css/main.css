@@ -177,7 +177,6 @@ input, select, textarea {
 		transition: border-bottom-color 0.25s ease-in-out;
 		text-decoration: none;
 		color: #000000;
-		border-bottom: dotted 1px;
 	}
 
 		a:hover {
