@@ -2923,6 +2923,7 @@ input, select, textarea {
 			outline: 0;
 			position: relative;
 			width: calc(50% - 1.25rem);
+            cursor:pointer;
 		}
 
 			.gallery a img {
@@ -2932,6 +2933,7 @@ input, select, textarea {
 				object-fit: cover;
 				object-position: center;
 				width: 100%;
+                cursor:pointer;
 			}
 
 			.gallery a.landscape {
@@ -2944,6 +2946,7 @@ input, select, textarea {
 
 			.gallery a.portrait img {
 				height: 30vw;
+                cursor:pointer;
 			}
 
 		.gallery .modal {
