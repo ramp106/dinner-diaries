@@ -3963,3 +3963,16 @@ input, select, textarea {
   text-decoration: none;
   cursor: pointer;
 }
+.close6 {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close6:hover,
+.close6:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
