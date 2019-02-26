@@ -128,7 +128,6 @@ window.onclick = function(event) {
   }
 }
 
-
 // Get the modal
 var modal6 = document.getElementById('myModal6');
 
